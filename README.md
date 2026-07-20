@@ -7,6 +7,7 @@ A Streamlit-based web application that predicts whether a loan application is li
 
 Streamlit : 
 
+
 ## 📌 Project Overview
 
 This project uses applicant information such as income, education, credit history, marital status, and property area to predict loan approval status.
@@ -70,7 +71,7 @@ The model uses the following features:
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/Loan-Approval-Prediction.git
+git clone - https://github.com/yuvraj-ml/Loan-Approval-Prediction.git
 
 ### 2. Navigate to the project folder
 
