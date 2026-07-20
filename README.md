@@ -4,7 +4,6 @@ A Streamlit-based web application that predicts whether a loan application is li
 
 
 ## Live Demo
-
 Streamlit : 
 
 
@@ -42,10 +41,16 @@ The application is built using **Python**, **Scikit-learn**, and **Streamlit** w
 Loan-Approval-Prediction/
 │
 ├── loan_app.py
+
 ├── loan_lr_train.pkl
+
 ├── requirements.txt
+
 ├── README.md
+
+
 ├── Loan_Prediction_Dataset.csv
+
 └── loan_prediction_model_train.ipynb
 
 
@@ -83,7 +88,7 @@ pip install -r requirements.txt
 
 ### 4. Run the Streamlit application
 
-streamlit run app.py
+streamlit run loan_app.py
 
 ---
 
@@ -104,4 +109,4 @@ streamlit run app.py
 
 **Yuvraj**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/yuvraj-ml
