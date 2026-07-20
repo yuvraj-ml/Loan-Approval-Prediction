@@ -2,10 +2,13 @@
 
 A Streamlit-based web application that predicts whether a loan application is likely to be **Approved** or **Rejected** using a trained **Logistic Regression** machine learning model.
 
+---
 
 ## Live Demo
-Streamlit : 
 
+Streamlit : https://yuvraj-ml-loan-approval-prediction-loan-app-mc3ekn.streamlit.app/ 
+
+---
 
 ## 📌 Project Overview
 
@@ -39,7 +42,7 @@ The application is built using **Python**, **Scikit-learn**, and **Streamlit** w
 ## 📂 Project Structure
 
 Loan-Approval-Prediction/
-│
+
 ├── loan_app.py
 
 ├── loan_lr_train.pkl
@@ -48,11 +51,11 @@ Loan-Approval-Prediction/
 
 ├── README.md
 
-
 ├── Loan_Prediction_Dataset.csv
 
 └── loan_prediction_model_train.ipynb
 
+---
 
 ## 📊 Input Features
 
